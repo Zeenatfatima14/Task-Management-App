@@ -1,0 +1,19 @@
+body {
+  background-color: #212529;
+  background: #606c88;
+  background: -webkit-linear-gradient(
+    to right,
+    #3f4c6b,
+    #606c88
+  );
+  background: linear-gradient(
+    to right,
+    #3f4c6b,
+    #606c88
+  ); 
+  background: url('../Assets/bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
